@@ -1,0 +1,26 @@
+{
+  "name": "hamburgerhomework",
+  "version": "1.0.0",
+  "description": "really cool app for building burgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjkelly/hamburgerhomework.git"
+  },
+  "keywords": [
+    "jaws",
+    "db",
+    "nodejs",
+    "heroku",
+    "mysql"
+  ],
+  "author": "jim kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesjkelly/hamburgerhomework/issues"
+  },
+  "homepage": "https://github.com/jamesjkelly/hamburgerhomework#readme"
+}

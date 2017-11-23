@@ -1,4 +1,5 @@
 {
+ "_comment": "dev server connection",
   "development": {
     "username": "root",
     "password": "Banjoman!1",
@@ -6,6 +7,7 @@
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
+  "_comment": "prod server connection",
   "production": {
     "use_env_variable": "JAWSDB_URL"
   }

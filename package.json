@@ -2,7 +2,7 @@
   "name": "hamburgerhomework",
   "version": "1.0.0",
   "description": "really cool app for building burgers",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/jamesjkelly/hamburgerhomework/issues"
   },
-  "homepage": "https://github.com/jamesjkelly/hamburgerhomework#readme"
+  "homepage": "https://github.com/jamesjkelly/hamburgerhomework#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "6.11.1"
+  }
 }

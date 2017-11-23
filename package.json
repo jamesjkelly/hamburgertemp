@@ -1,5 +1,5 @@
 {
-  "name": "hamburger home work",
+  "name": "burger",
   "version": "0.0.1",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "jim kelly",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": ""

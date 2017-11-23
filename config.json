@@ -1,0 +1,10 @@
+{
+ "_comment": "dev server connection",
+  "development": {
+    "username": "root",
+    "password": "Banjoman!1",
+    "database": "sequelize_burgers_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
